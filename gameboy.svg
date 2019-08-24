@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="gameboy.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2617414"
+     inkscape:cx="359.69335"
+     inkscape:cy="527.46166"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-193.72176"
+       y="79.474915"
+       id="text4493"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4491"
+         x="-193.72176"
+         y="79.474915"
+         style="font-size:4.23333311px;stroke-width:0.26458332px">Touch</tspan></text>
+    <g
+       id="g4523"
+       transform="rotate(-90,36.373915,84.693863)"
+       style="fill:none;stroke:#ff0000">
+      <circle
+         r="1.5"
+         cy="119.71666"
+         cx="-103.29248"
+         id="path4487"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4519"
+         cx="-42.29248"
+         cy="119.71666"
+         r="1.5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.73412"
+       y="236.07106"
+       id="text4499"><tspan
+         sodipodi:role="line"
+         id="tspan4497"
+         x="116.73412"
+         y="236.07106"
+         style="font-size:4.23333311px;stroke-width:0.26458332px">Rainbow</tspan></text>
+    <g
+       id="g4604"
+       transform="rotate(-180,24.088179,192.70712)">
+      <circle
+         r="1.5"
+         cy="150.69229"
+         cx="-87.256584"
+         id="path4487-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4548"
+         cx="-45.25658"
+         cy="150.69229"
+         r="1.5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.67719"
+       y="208.47824"
+       id="text4505"><tspan
+         sodipodi:role="line"
+         id="tspan4503"
+         x="145.67719"
+         y="208.47824"
+         style="stroke-width:0.26458332px">Slider</tspan></text>
+    <g
+       id="g4623"
+       transform="rotate(-180,1.438416,202.05063)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4617"
+         cx="-157.35611"
+         cy="187.6877"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="187.6877"
+         cx="-120.35611"
+         id="circle4619"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4627"
+       width="30.5"
+       height="12"
+       x="-156.98294"
+       y="-222.41356"
+       transform="scale(-1)" />
+    <text
+       transform="rotate(90)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="182.16124"
+       y="-162.51088"
+       id="text4511"><tspan
+         sodipodi:role="line"
+         id="tspan4509"
+         x="182.16124"
+         y="-162.51088"
+         style="stroke-width:0.26458332px">Joystick</tspan></text>
+    <g
+       id="g4651"
+       transform="rotate(-180,8.1788125,182.3133)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4639"
+         cx="-150.32532"
+         cy="194.38371"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="194.38371"
+         cx="-126.32532"
+         id="circle4641"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         r="1.5"
+         cy="170.38371"
+         cx="-150.32532"
+         id="circle4643"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4645"
+         cx="-126.32532"
+         cy="170.38371"
+         r="1.5" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 160.73284,195.74298 v -4.49999 -17.99993 -4.49998 h -15.00012 v 4.49998 h -5.99963 v 17.99993 h 5.99963 v 4.49999 z"
+       id="rect4655" />
+    <text
+       transform="rotate(-90)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-139.37367"
+       y="88.599564"
+       id="text4517"><tspan
+         sodipodi:role="line"
+         id="tspan4515"
+         x="-139.37367"
+         y="88.599564"
+         style="font-size:3.52777767px;stroke-width:0.26458332px">Dial</tspan></text>
+    <g
+       id="g4678"
+       transform="translate(235.61087,-12.753179)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4672"
+         cx="-158.52792"
+         cy="161.23848"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="143.23848"
+         cx="-158.52792"
+         id="circle4674"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 291.33789 273.44727 C 266.21159 273.44727 245.98242 293.67644 245.98242 318.80273 L 245.98242 433.88867 C 245.98242 435.25845 246.05412 436.61104 246.17188 437.94922 L 246.17188 506.40039 L 321.76172 506.40039 L 321.76172 547.97656 L 246.17188 547.97656 L 246.17188 891.94141 C 246.17187 902.4107 254.60102 910.83984 265.07031 910.83984 L 622.23438 910.83984 C 632.7036 910.83984 641.13281 902.4107 641.13281 891.94141 L 641.13281 547.97656 L 565.54102 547.97656 L 565.54102 506.40039 L 641.13281 506.40039 L 641.13281 437.96875 C 641.25173 436.6241 641.32227 435.26525 641.32227 433.88867 L 641.32227 318.80273 C 641.32227 293.67644 621.0931 273.44727 595.9668 273.44727 C 570.8405 273.44727 550.61328 293.67644 550.61328 318.80273 L 550.61328 318.99023 L 464.43945 318.99023 L 464.43945 334.1582 L 422.86523 334.1582 L 422.86523 318.99023 L 336.69141 318.99023 L 336.69141 318.80273 C 336.69141 293.67644 316.46419 273.44727 291.33789 273.44727 z "
+       transform="scale(0.26458333)"
+       id="path5206" />
+    <text
+       id="text4688"
+       y="113.34599"
+       x="77.018867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="113.34599"
+         x="77.018867"
+         id="tspan4686"
+         sodipodi:role="line">Sensor</tspan></text>
+    <g
+       transform="translate(235.61087,-40.433479)"
+       id="g4694">
+      <circle
+         r="1.5"
+         cy="161.23848"
+         cx="-158.52792"
+         id="circle4690"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4692"
+         cx="-158.52792"
+         cy="143.23848"
+         r="1.5" />
+    </g>
+    <g
+       id="g4751"
+       transform="rotate(-180,-14.407294,145.85038)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4745"
+         cx="-159.19753"
+         cy="151.52928"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="151.52928"
+         cx="-133.19753"
+         id="circle4747"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="117.37156"
+       y="125.74954"
+       id="text4755"><tspan
+         sodipodi:role="line"
+         id="tspan4753"
+         x="117.37156"
+         y="125.74954"
+         style="stroke-width:0.26458332px">Matrix</tspan></text>
+    <g
+       id="g4792"
+       style="stroke:#ff0000"
+       transform="rotate(-180,-14.450796,173.7114)">
+      <rect
+         y="215.25159"
+         x="-160.03453"
+         height="22"
+         width="3.5"
+         id="rect4786"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect4788"
+         width="3.5"
+         height="22"
+         x="-136.03453"
+         y="215.25159" />
+    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4794"
+       width="11"
+       height="4"
+       x="-122.88293"
+       y="-143.17148"
+       transform="scale(-1)" />
+    <g
+       id="g4777"
+       transform="translate(257.37166,-71.481949)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4771"
+         cx="-157.18872"
+         cy="158.89488"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="158.89488"
+         cx="-122.78872"
+         id="circle4773"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4786-2"
+       width="3.5"
+       height="22"
+       x="100.51276"
+       y="-128.38293"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       y="-128.38293"
+       x="90.512764"
+       height="22"
+       width="3.5"
+       id="rect4854"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="117.31886"
+       y="98.966011"
+       id="text4858"><tspan
+         sodipodi:role="line"
+         id="tspan4856"
+         x="117.31886"
+         y="98.966011"
+         style="stroke-width:0.26458332px">Number</tspan></text>
+    <g
+       id="g4883"
+       transform="translate(46.502139,14.951694)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4877"
+         cx="24.880802"
+         cy="219.54117"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="219.54117"
+         cx="116.8808"
+         id="circle4879"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <circle
+       r="1.5"
+       cy="163.49286"
+       cx="163.38293"
+       id="circle4887"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="84.285667"
+       y="-75.541954"
+       id="text4978"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan4976"
+         x="84.285667"
+         y="-75.541954"
+         style="stroke-width:0.26458332px">Sensor</tspan></text>
+    <g
+       id="g4984"
+       transform="rotate(90,-6.778125,236.09955)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4980"
+         cx="-158.52792"
+         cy="161.23848"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="143.23848"
+         cx="-158.52792"
+         id="circle4982"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       id="text4994"
+       y="-146.16634"
+       x="139.59695"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-size:3.52777767px;stroke-width:0.26458332px"
+         y="-146.16634"
+         x="139.59695"
+         id="tspan4992"
+         sodipodi:role="line">Dial</tspan></text>
+    <g
+       transform="rotate(180,-0.422494,145.8619)"
+       id="g5000">
+      <circle
+         r="1.5"
+         cy="161.23848"
+         cx="-158.52792"
+         id="circle4996"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle4998"
+         cx="-158.52792"
+         cy="143.23848"
+         r="1.5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="157.61885"
+       y="113.34605"
+       id="text5012"><tspan
+         sodipodi:role="line"
+         id="tspan5010"
+         x="157.61885"
+         y="113.34605"
+         style="stroke-width:0.26458332px">Sensor</tspan></text>
+    <g
+       id="g5018"
+       transform="rotate(180,-0.4224945,132.02177)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle5014"
+         cx="-158.52792"
+         cy="161.23848"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="143.23848"
+         cx="-158.52792"
+         id="circle5016"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       id="text5028"
+       y="-156.14195"
+       x="84.28569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="stroke-width:0.26458332px"
+         y="-156.14195"
+         x="84.28569"
+         id="tspan5026"
+         sodipodi:role="line">Sensor</tspan></text>
+    <g
+       transform="rotate(90,33.521868,276.39956)"
+       id="g5034">
+      <circle
+         r="1.5"
+         cy="161.23848"
+         cx="-158.52792"
+         id="circle5030"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle5032"
+         cx="-158.52792"
+         cy="143.23848"
+         r="1.5" />
+    </g>
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path5131"
+       cx="117.38302"
+       cy="168.84213"
+       r="10.5" />
+    <g
+       id="g5690"
+       transform="rotate(-90,40.420551,96.365904)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle5686"
+         cx="-87.256584"
+         cy="150.69229"
+         r="1.5" />
+      <circle
+         r="1.5"
+         cy="150.69229"
+         cx="-45.25658"
+         id="circle5688"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       id="text5735"
+       y="96.325134"
+       x="-203.19186"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="rotate(-90)"><tspan
+         style="font-size:4.23333311px;stroke-width:0.26458332px"
+         y="96.325134"
+         x="-203.19186"
+         id="tspan5733"
+         sodipodi:role="line">Rainbow</tspan></text>
+  </g>
+</svg>
